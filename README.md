@@ -223,7 +223,7 @@
                         </a>
                     </li>
                     <li>
-                        ![insta_logo](./web/insta_logo.png)
+                        ![insta_logo](./WEB/insta_logo.png)
                         <a class=none href="https://www.instagram.com/choi_dolores/">
                             
                             <p> INSTA</p>
