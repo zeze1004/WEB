@@ -215,9 +215,10 @@
             <div id="ul_table">
                 <ul>
                     <li>
-                        
+                            
                            <img src="blog_logo.png">
-                           [네이버 블로그](https://blog.naver.com/thwjd2717)
+                           [naver blog][naverlink]
+                           [naverlink]: https://blog.naver.com/thwjd2717
                             <p class="a"> NAVER BLOG</p>
 
                           
