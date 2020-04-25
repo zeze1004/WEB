@@ -217,7 +217,7 @@
                     <li>
                         
                            <img src="blog_logo.png">
-                           [!blog_logo](https://blog.naver.com/thwjd2717)
+                           [네이버 블로그](https://blog.naver.com/thwjd2717)
                             <p class="a"> NAVER BLOG</p>
 
                           
