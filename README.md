@@ -223,7 +223,7 @@
                         </a>
                     </li>
                     <li>
-                        <img src="https://user-images.githubusercontent.com/44468282/80274960-35840c80-8719-11ea-97bc-7622ab3e2ddc.png"
+                        ![insta_logo](./web/insta_logo.png)
                         <a class=none href="https://www.instagram.com/choi_dolores/">
                             
                             <p> INSTA</p>
