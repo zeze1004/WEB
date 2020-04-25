@@ -217,8 +217,8 @@
                     <li>
                             
                            <img src="blog_logo.png">
-                           [naver blog][naverlink]
-                           [naverlink]: https://blog.naver.com/thwjd2717
+                           [naver blog][https://blog.naver.com/thwjd2717]
+                        
                             <p class="a"> NAVER BLOG</p>
 
                           
