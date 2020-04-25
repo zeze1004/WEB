@@ -217,7 +217,8 @@
                     <li>
                             
                            <img src="blog_logo.png">
-                           [naver blog][https://blog.naver.com/thwjd2717]
+                           [naver blog]("https://www.instagram.com/choi_dolores/")
+                           
                         
                             <p class="a"> NAVER BLOG</p>
 
@@ -226,7 +227,7 @@
                     </li>
                     <li>
                         ![insta_logo](./WEB/insta_logo.png)
-                        <a class=none href="https://www.instagram.com/choi_dolores/">
+                        [insta]("https://www.instagram.com/choi_dolores/")
                             
                             <p> INSTA</p>
                         </a>
