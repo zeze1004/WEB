@@ -215,7 +215,7 @@
             <div id="ul_table">
                 <ul>
                     <li>
-                        <a class=none href="https://blog.naver.com/thwjd2717">
+                        <https://blog.naver.com/thwjd2717>
                            <img src="blog_logo.png">
                             <p class="a"> NAVER BLOG</p>
 
