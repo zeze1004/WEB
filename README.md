@@ -216,7 +216,7 @@
                 <ul>
                     <li>
                         <a class=none href="https://blog.naver.com/thwjd2717">
-                            <img src="blog_logo.png">
+                            ![blog_logo](https://user-images.githubusercontent.com/44468282/80274962-374dd000-8719-11ea-8c18-f9ef5f7594bb.png)
                             <p class="a"> NAVER BLOG</p>
 
                           
