@@ -219,6 +219,8 @@
                            <img src="blog_logo.png">
                            [naver blog]<https://www.instagram.com/choi_dolores/>
                            
+                           <a href="https://blog.naver.com/thwjd2717" > </a >
+                           
                         
                             <p class="a"> NAVER BLOG</p>
 
