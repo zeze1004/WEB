@@ -224,21 +224,21 @@
                             <p class="a"> NAVER BLOG</p>
 
                           
-                        </a>
+                        
                     </li>
                     <li>
                         <img src="insta_logo.png">
-                        [insta]("https://www.instagram.com/choi_dolores/")
+                       "https://www.instagram.com/choi_dolores/"
                             
                             <p> INSTA</p>
-                        </a>
+                        
                     </li>
                     <li>
                           <img src="git_logo2.png">                  
-                        <a class=none href="https://github.com/zeze1004/MAPCY-ZZANG">
+                      ="https://github.com/zeze1004/MAPCY-ZZANG"
                             
                             <p> GIT</p>
-                        </a>
+                        
                     </li>
 
 
