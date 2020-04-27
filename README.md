@@ -218,7 +218,7 @@
                            <img src="blog_logo.png">
                           
                            
-                           <a href="https://blog.naver.com/thwjd2717" > </a >
+                           https://blog.naver.com/thwjd2717
                            
                         
                             <p class="a"> NAVER BLOG</p>
