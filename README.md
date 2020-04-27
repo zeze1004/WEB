@@ -175,9 +175,8 @@
                 </p>
 
 
-                </h1 >
             </strong>
-    </center>
+    
         <!-- <div id="wrap_bar" >
         <div id="search_bar" >
         <img id="search_icon" src="https://svgsilh.com/png-1024/1093183.png" >
