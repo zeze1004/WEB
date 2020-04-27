@@ -217,7 +217,7 @@
                     <li>
                             
                            <img src="blog_logo.png">
-                           [naver blog]("https://www.instagram.com/choi_dolores/")
+                           [naver blog]<https://www.instagram.com/choi_dolores/>
                            
                         
                             <p class="a"> NAVER BLOG</p>
