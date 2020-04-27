@@ -228,14 +228,14 @@
                     </li>
                     <li>
                         <img src="insta_logo.png">
-                       "https://www.instagram.com/choi_dolores/"
+                       https://www.instagram.com/choi_dolores/
                             
                             <p> INSTA</p>
                         
                     </li>
                     <li>
                           <img src="git_logo2.png">                  
-                      ="https://github.com/zeze1004/MAPCY-ZZANG"
+                      https://github.com/zeze1004/MAPCY-ZZANG
                             
                             <p> GIT</p>
                         
@@ -243,9 +243,4 @@
 
 
 
-                    </p >
 
-
-
-</body>
-        </html >
