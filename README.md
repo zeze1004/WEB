@@ -217,7 +217,7 @@
                     <li>
                             
                            <img src="blog_logo.png">
-                           [naver blog]<https://www.instagram.com/choi_dolores/>
+                          
                            
                            <a href="https://blog.naver.com/thwjd2717" > </a >
                            
@@ -228,15 +228,16 @@
                         </a>
                     </li>
                     <li>
-                        ![insta_logo](./WEB/insta_logo.png)
+                        <img src="insta_logo.png">
                         [insta]("https://www.instagram.com/choi_dolores/")
                             
                             <p> INSTA</p>
                         </a>
                     </li>
                     <li>
+                          <img src="git_logo2.png">                  
                         <a class=none href="https://github.com/zeze1004/MAPCY-ZZANG">
-                            <img class=table_icon src="git_logo2.png">
+                            
                             <p> GIT</p>
                         </a>
                     </li>
